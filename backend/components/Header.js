@@ -26,7 +26,7 @@ const Header = () => {
     <>
       <header className="header flex flex-sb">
         <div className="logo flex gap-2">
-          <h1>ADMIN</h1>
+          <h1>RANJIV ADMIN</h1>
           <div className="headerham flex flex-center">
             <RiBarChartHorizontalLine />
           </div>
